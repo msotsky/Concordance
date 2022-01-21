@@ -1,0 +1,68 @@
+Here are some checks you can perform to verify the correctness
+of your program:
+
+Number of books = 66
+
+Number of chapters = 1189
+
+Number of verses = 31102
+
+Number of words = 789625
+
+Number of DISTINCT words = 12566
+
+
+
+Here are the results from a couple of searches
+(your output should look more or less like this):
+
+Result of search for "goat"
+---------------------------
+  [32 results found]
+
+  Genesis 15:9
+  Leviticus 3:12
+  Leviticus 4:24
+  Leviticus 7:23
+  Leviticus 9:15
+  Leviticus 10:16
+  Leviticus 16:9
+  Leviticus 16:10
+  Leviticus 16:15
+  Leviticus 16:18
+  Leviticus 16:20
+  Leviticus 16:21
+  Leviticus 16:22
+  Leviticus 16:26
+  Leviticus 16:27
+  Leviticus 17:3
+  Leviticus 22:27
+  Numbers 15:27
+  Numbers 18:17
+  Numbers 28:22
+  Numbers 29:22
+  Numbers 29:28
+  Numbers 29:31
+  Numbers 29:34
+  Numbers 29:38
+  Deuteronomy 14:4
+  Deuteronomy 14:5
+  Proverbs 30:31
+  Ezekiel 43:25
+  Daniel 8:5
+  Daniel 8:8
+  Daniel 8:21
+
+
+Result of search for "hurricane"
+--------------------------------
+*** No matches for "hurricane" ***
+
+
+Result of search for "scrape"
+-----------------------------
+  [3 results found]
+
+  Leviticus 14:41
+  Job 2:8
+  Ezekiel 26:4
